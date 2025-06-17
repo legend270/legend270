@@ -10,12 +10,12 @@ A **frontend developer** passionate about crafting clean, intuitive, and accessi
 ![CSS3](https://img.shields.io/badge/CSS3-2496ED?style=flat&logo=CSS3&logoColor=white)  
 
 
-**🛠️ My Tech Toolkit**
--🔹 HTML5 – Structuring the web!
--🔹 CSS3 – Making things fancy 🎨
--🔹 JavaScript – Adding the magic ✨
--🔹 Git & GitHub – Learning to collaborate!
--🔹 VS Code – My favorite coding playground 🚀
+### **🛠️ My Tech Toolkit**
+🔹 HTML5 – Structuring the web!
+🔹 CSS3 – Making things fancy 🎨
+🔹 JavaScript – Adding the magic ✨
+🔹 Git & GitHub – Learning to collaborate!
+🔹 VS Code – My favorite coding playground 🚀
 
 
 ### **📫 Let’s Connect**  
