@@ -2,7 +2,7 @@
 *"Turning coffee into code since 2022."*  
 
 ### **💻 What I Do**  
-A **frontend developer** passionate about crafting clean, intuitive, and accessible web experiences. With a focus on modern web standards and user-centric design, I enjoy turning ideas into functional and visually engaging interfaces.
+A **frontend developer** passionate about crafting clean, User-friendly, and accessible web experiences. With a focus on modern web standards and user-centric design, I enjoy turning ideas into functional and visually engaging interfaces.
 ### **🛠 Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
