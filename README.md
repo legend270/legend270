@@ -1,5 +1,5 @@
-# **Hi, I'm Eugene!** 👨‍💻  
-*"Turning coffee into code since 2018."*  
+# **Hey, I'm Eugene!** 👨‍💻  
+*"Turning coffee into code since 2022."*  
 
 ### **💻 What I Do**  
 I'm a **Full-Stack Developer** with a passion for building scalable web apps and automating boring tasks. Currently exploring **AI/ML** and **cloud-native architectures**.  
