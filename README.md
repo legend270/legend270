@@ -1,4 +1,4 @@
-# **Hey, I'm Eugene Akasoma!** 👨‍💻  
+# **Hey, I'm Eugene!** 👨‍💻  
 *"Turning coffee into code since 2022."*  
 
 ### **💻 What I Do**  
@@ -12,9 +12,13 @@ A **frontend developer** passionate about crafting clean, User-friendly, and acc
 
 ### **🛠️ My Tech Toolkit**
 🔹 HTML5 – Structuring the web!
+
 🔹 CSS3 – Making things fancy 🎨
+
 🔹 JavaScript – Adding the magic ✨
+
 🔹 Git & GitHub – Learning to collaborate!
+
 🔹 VS Code – My favorite coding playground 🚀
 
 
