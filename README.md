@@ -11,11 +11,11 @@ A **frontend developer** passionate about crafting clean, intuitive, and accessi
 
 
 **🛠️ My Tech Toolkit**
-🔹 HTML5 – Structuring the web!
-🔹 CSS3 – Making things fancy 🎨
-🔹 JavaScript – Adding the magic ✨
-🔹 Git & GitHub – Learning to collaborate!
-🔹 VS Code – My favorite coding playground 🚀
+-🔹 HTML5 – Structuring the web!
+-🔹 CSS3 – Making things fancy 🎨
+-🔹 JavaScript – Adding the magic ✨
+-🔹 Git & GitHub – Learning to collaborate!
+-🔹 VS Code – My favorite coding playground 🚀
 
 
 ### **📫 Let’s Connect**  
